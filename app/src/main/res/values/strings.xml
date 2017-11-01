@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Colis NC - Admin</string>
+    <string name="logout">Deconnexion</string>
+    <string name="login">Connecter</string>
+</resources>
